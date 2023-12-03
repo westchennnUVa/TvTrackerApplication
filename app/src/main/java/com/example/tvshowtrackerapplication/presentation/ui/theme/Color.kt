@@ -1,4 +1,4 @@
-package com.example.tvshowtrackerapplication.ui.theme
+package com.example.tvshowtrackerapplication.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

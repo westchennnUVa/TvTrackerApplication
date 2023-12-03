@@ -1,4 +1,4 @@
-package com.example.tvshowtrackerapplication.ui.theme
+package com.example.tvshowtrackerapplication.presentation.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
